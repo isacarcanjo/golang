@@ -5,8 +5,8 @@ In **Go** is not common people use arrays because the length defined. **Slice** 
 
 Defining
 ````go
-var array [5]int //defined length
-var slice []int // not defined
+var array [5]int // defined length
+var slice []int  // not defined
 ````
 
 Adding
